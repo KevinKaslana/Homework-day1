@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First app</string>
+    <string name="button">Confirm</string>
+    <string name="hint">please enter a string...</string>
+</resources>
